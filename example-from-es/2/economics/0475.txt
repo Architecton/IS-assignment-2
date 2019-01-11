@@ -1,0 +1,2 @@
+Monopolistic Price Adjustment and Aggregate Output
+This paper studies the consequences for the behaviour of aggregate output of the perception on the part of firms that changing prices is costly. The rational expectations equilibrium of an economy with many such firms is constructed. It is shown that in this economy nominal shocks have a persistent effect on aggregate output. Furthermore, the real wage is demonstrated to move procyclically in such an economy.

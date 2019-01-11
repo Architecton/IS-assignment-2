@@ -1,0 +1,2 @@
+Two Stage and Related Estimators and Their Applications
+This paper aims to provide a unified treatment of the properties of two stage estimators. General conditions are set forth for consistency, efficiency and correct inferences. Applications of the general theorems are made to models with expectations and diagnostic tests. The general approach frequently enables much simpler derivation of existing results, and provides a number of new ones. 

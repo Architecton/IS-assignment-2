@@ -1,0 +1,2 @@
+Property Rights and Efficiency of Voluntary Bargaining under Asymmetric Information
+We show that in public good problems under asymmetric information, the success of voluntary bargaining is closely related to the structure of property rights. We characterize property rights structures and mediated bargaining procedures that either lead to an efficient voluntary resolution to public good problems, or achieve the efficient outcome but slightly coerce the agents into participation. In this respect, we identify "efficient" property rights structures. 

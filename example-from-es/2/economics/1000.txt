@@ -1,0 +1,2 @@
+Imitation of Successful Behaviour in Cournot Markets
+In an experimental standard Cournot oligopoly we test the importance of models of behaviour characterised by imitation of successful behaviour, in particular when the environment becomes more complex. We find that the players do not rely more on imitation in more demanding environments. We explain that the different pattern of output decisions in such environments seems predominantly related to a general disorientation of the players, and more specifically to a significant decrease of best-responses. 

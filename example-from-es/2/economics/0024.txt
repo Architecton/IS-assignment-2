@@ -1,0 +1,2 @@
+On the Two Theorems of Growth Economics: A Mathematical Exercise
+Two recent topics of growth economics, the Turnpike Theorem and the Relative Stability Theorem, are discussed on the basis of more general and realistic assumptions. Without the crucial assumption of primitivity, the "ergodic" properties asserted by those theorems are seen to be established only in the average sense. Our argument leads to extensions of the Kolmogoroff-Yoshida-Kakutani result into some nonlinear and non-unique cases.

@@ -1,0 +1,2 @@
+Further Results on Aggregation of Differential Demand Equations
+Barnett (1979a, 1981) Theil's extending (1971) work, aggregates differential demand equations in absolute (undeflated) prices. This paper extends further these results by deriving aggregate (macro) demand equations in relative prices under stated assumptions. These equations are analogous to the individual consumer's (micro) demand equations and the properties of the microcoefficients carry over.

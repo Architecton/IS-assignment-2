@@ -1,0 +1,2 @@
+Welfare Economics of Decision Making with Changing Preferences
+The paper considers the properties a decision tree needs to guarantee that there are no preferences such that the sophisticated equilibrium is Pareto dominated when all agents act completely myopically. It shows that the only decision trees with this property are the most trivial problems. The analysis is generalized to agents who are not completely myopic and gives an example of union and shareholder conflict to illustrate the results. 

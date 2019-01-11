@@ -1,0 +1,2 @@
+Acyclic Choice without the Pareto Principle
+In this paper we prove some versions of the Arrow Impossibility Theorem, with the collective rationality condition weakened from transitivity to acyclicity, and the Pareto condition replaced by weaker conditions. Thus this result has weaker assumptions than versions of the Arrow Theorem which have previously appeared in the literature. Consequently it is one of the strongest impossibility theorems. Our result is an extension of a recent theorem of Blair and Pollak.

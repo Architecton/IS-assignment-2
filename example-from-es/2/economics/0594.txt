@@ -1,0 +1,2 @@
+An Experimental Analysis of Unanimity in Public Goods Provision Mechanisms
+The paper reports on an experimental investigation of four methods of allocating public goods. The two basic processes studied are direct contribution and a public goods auction process. Both of these processes are studied with and without an additional unanimity feature. The results suggest that the auction process outperforms direct contribution. The effect of unanimity is to decrease the efficiency of both processes. Much of the paper is focused on an analysis of these results.

@@ -1,0 +1,2 @@
+Adverse Selection and Security Design
+This paper studies the problem of optimal security design by a privately informed entrepreneur. In the context of a simple parametric model, it is shown that the entrepreneur does not find it profitable to float an asset that affords her an informational advantage. The reason is that, with rational, uninformed outside investors, the entrepreneur faces adverse selection in the security market, which prevents her from exploiting her position as an insider. This is true whether or not she has market power in trading the asset.

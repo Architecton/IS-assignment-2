@@ -1,0 +1,2 @@
+A Dynamic Baumol-Tobin Model of Money Demand
+This note considers a stochastic version of the Baumol-Tobin model of the demand for money. A dynamic demand function is derived for the case in which independent variables change to new, steady-state values. The (S,s) inventory policy is shown to give rise to an aggregate, partial-adjustment equation with a variable adjustment speed. The methodology is that introduced to target-threshold models by Milbourne, Buckholtz, and Wasan (1983) in their study of the Miller-Orr model.

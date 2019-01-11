@@ -1,0 +1,2 @@
+An Investigation of the Determinants of Manufacturing Employment in the United Kingdom
+In this paper we present and estimate an adjustment cost model of industry employment which takes explicit account of both expectations and aggregation over different labour types. The resulting model is subject to a large number of tests and is a highly robust representation of the data. Finally forecasts are produced for manufacturing employment up to 1990.

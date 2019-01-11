@@ -1,0 +1,2 @@
+Price Setting Supergames with Capacity Constraints
+This paper examines the role of industry capacity in enforcing collusion in the context of repeated games. For a fixed capacity per firm it is shown that changes in the number of firms have a non-monotone effect on the best enforceable cartel price. This is due to the fact that while an additional firm lowers the share that each of the other firms enjoys at the collusive price it also increases the losses to each firm should the cartel fail. 

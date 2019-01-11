@@ -1,0 +1,2 @@
+Non-Joint Technologies
+The hypothesis of non-jointness in input quantities (separate production functions) is well-known, and it plays an important role in many areas of economics. In this paper we define three additional forms of non-jointness which have received little or no attention in the literature, and which might be relevant for the firm as well as for the representation of the aggregate technology. We characterize all forms of non-jointness in terms of variable profit and joint cost functions. This yields a number of restrictions which are all testable empirically. 

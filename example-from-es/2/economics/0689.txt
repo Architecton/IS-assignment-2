@@ -1,0 +1,2 @@
+Market Excess Demand in Exchange Economies with Identical Preferences and Collinear Endowments
+In this paper we show that up to an arbitrary small neighbourhood of the boundary of the set of prices any given excess demand function can be considered as the excess demand of an economy with any large enough but finite number of individuals having identical preferences. Moreover, the individual endowments can be chosen collinear and in such a way that they yield any arbitrary price independent distribution of relative wealth. 

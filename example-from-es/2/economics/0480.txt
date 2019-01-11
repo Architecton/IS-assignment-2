@@ -1,0 +1,2 @@
+Dynamic Duopoly: Prices and Quantities
+We study a dynamic model of duopoly in which firms choose both prices and quantities. If quantity (capacity) choices are relatively inflexible, firms generally carry excess (idle) capacity in equilibrium. Because of this enforcement cost, firms are unable to achieve monopoly levels. This contrasts with models in which which firms compete in either prices or quantities alone. On the other hand, if capacities are flexible firms may be able to sustain monopoly behaviour. 

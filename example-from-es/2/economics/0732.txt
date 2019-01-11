@@ -1,0 +1,2 @@
+The Weak Axiom of Revealed Preference in a Productive Economy
+We consider an economy with pure factors of production, private ownership of endowments and constant returns to scale in production. Typically in such an economy, the weak axiom of revealed preference for market demand does not hold. The main reason for this is that the income distribution in such a private ownership economy depends too sensitively on the price system. 

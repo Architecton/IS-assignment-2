@@ -1,0 +1,2 @@
+A Competitive Theory of Employment Dynamics
+We develop a model of search and unemployment in an economy consisting of a large number of spatially separated local competitive labour markets and aggregate uncertainty. If aggregate shocks are positively autocorrelated, the implied cyclical behaviour of the aggregate variables match those of empirical studies: worker movement and job creation are procyclical while total unemployment, job destruction and job reallocation are countercyclical. 

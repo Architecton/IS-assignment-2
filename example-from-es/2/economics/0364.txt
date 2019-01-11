@@ -1,0 +1,2 @@
+Spatial Price Discrimination with Heterogeneous Products
+Product heterogeneity is introduced into the context of spatial price discrimination. Many of the strong properties of the standard homogeneous goods case (which are attained as a limit case here) are shown to be no longer valid. In particular, the social optimum is no longer sustainable as a market equilibrium unless products are either identical or else very different.

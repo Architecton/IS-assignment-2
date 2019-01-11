@@ -1,0 +1,2 @@
+Reproductive Behaviour in Peasant Societies: A Theoretical and Empirical Analysis
+An optimal policy is derived for a sequential family size decision making problem. It is shown that households will follow a stopping rule, replacing dead children until an optimal number of living children is reached. The behavioural equation derived from the optimal policy is then used to explain retrospective household data collected in Bangladesh in 1977-1978. This data provides some support for the underlying hypothesis. 

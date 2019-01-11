@@ -1,0 +1,2 @@
+Insurance Contracts as Commodities: A Note
+This paper extends recent developments in general equilibrium theory and applies them to the problem of measuring the real output of an economy's insurance sector. These developments permit a priced commodity to be a complex incentive-compatible contract. These contracts are not bundles of more basic commodities. These contracts are elementary in the same sense that event-contingent goods deliveries are elementary in the Arrow-Debreu framework.

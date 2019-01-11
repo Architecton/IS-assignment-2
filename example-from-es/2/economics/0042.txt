@@ -1,0 +1,2 @@
+Stock and Flow Analysis in Economics
+It is not always irrelevant whether one deals with stock or flow variables in economic analysis. Some simple dynamic models are shown in which the choice between stock and flow variables becomes essential. It is also not true that the liquidity preference theory of interest is identical with the loanable funds theory of interest. This problem is intimately connected with the distinctions between stock and flow analysis. These two interest theories are shown to be different in simple dynamic models.

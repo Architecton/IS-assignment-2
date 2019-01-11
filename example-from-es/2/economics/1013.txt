@@ -1,0 +1,2 @@
+Insecure Property and the Efficiency of Exchange
+We examine the effect of insecure property and its accompanying enforcement costs on the efficiency of exchange. Because of the large enforcement costs that may be induced by the expectation of exchange, limited settlement without exchange may be ex ante superior for an adversary or even Pareto dominant. We therefore show how the removal of restrictions on exchange and the development of secure property are related. 

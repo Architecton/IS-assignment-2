@@ -1,0 +1,2 @@
+Qualitative Economics and Morishima Matrices
+This paper investigates the interrelationships among Samuelson's correspondence principle, quasi-dominant diagonal matrices, and Morishima matrices, in the context of a qualitatively specified environment. In addition, the stability properties of the Morishima case are studied under the competitive assumptions that Walras' Law holds and excess demand functions are homogeneous of degree zero in prices. 

@@ -1,0 +1,2 @@
+Trade and Insurance with Adverse Selection
+This paper considers a small open economy with a safe sector and a risky sector. The probability of success in the risky activity differs across individuals, and is private information. It is shown that policies that sustain informationally constrained Pareto optima should not include tariffs. A laissez-faire competitive equilibrium, if it exists, is Pareto optimal. These results contrast with previous literature on the role of tariffs as insurance, where private risk markets are assumed away in an ad hoc manner. 

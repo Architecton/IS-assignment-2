@@ -1,0 +1,2 @@
+Terms-of-Trade, Factor Intensities and the Current Account in a Life-Cycle Model
+This paper examines the effects of terms-of-trade changes on the external adjustment of a small open economy where each consumer has a life-cycle saving function. The supply side of the economy is given by the standard two-sector model with two primary factors: labour and capital. It is shown that, when both commodities are produced, a terms-of-trade deterioration leads to a current account deficit (surplus) if the export (import) sector is more labour intensive.

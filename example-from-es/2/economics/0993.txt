@@ -1,0 +1,2 @@
+Ambiguity in Partnerships
+The consequences of ambiguity for partnerships are addressed. Partnerships with symmetric linear production functions are analysed in a Choquet Expected Utility (CEU)-framework. Nash equilibrium in pure strategies is extended to CEU-games. A class of sharing rules are proposed that make constructive use of strategic ambiguity in partnerships. Results on ex ante efficiency and ex post efficiency of the outcomes are presented. 

@@ -1,0 +1,2 @@
+The Importance of Bundling in a Gorman-Lancaster Model of Earnings
+This paper considers a multisector Gorman-Lancaster linear characteristics model of earnings in which workers cannot unbundle their skills. Conditions are presented under which characteristics are uniformly priced across sectors. Empirical evidence is presented for the U.S. labour market that rejects the hypothesis of uniform pricing of characteristics. 

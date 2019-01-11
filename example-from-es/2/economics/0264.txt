@@ -1,0 +1,2 @@
+Job Mobility in Market Equilibrium
+This paper develops a simple stochastic job matching model and uses it to derive a set of testable restrictions on the conditional probability with which a worker will be observed to change jobs over time. The restrictions describe the manner in which this probability varies with observable characteristics--current wage, labour market experience, tenure on current job, and past mobility. Econometric methods are also discussed, and some illustrative calculations provided.

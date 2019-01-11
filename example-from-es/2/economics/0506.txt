@@ -1,0 +1,2 @@
+Rawls' Maximin Criterion and Time-Consistency: Further Results
+The paper is concerned with the implications of a maximin welfare function for an intertemporal society which has a nonlinear technology at its disposal, but holds conflicting preferences over time. The complete solution given shows that time-consistency and optimality of plans may or may not be compatible. The time-consistent case is generalized to a very wide class of models. This leads to the partial invalidation of a result stated in the earlier literature on the subject.

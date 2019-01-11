@@ -1,0 +1,2 @@
+Identification and Estimation of Dichotomous Latent Variables Models Using Panel Data
+Identification conditions for binary choice errors-in-variables models are explored. Conditions for the consistency and asymptotic normality of the maximum likelihood estimators of binary choice models with unbounded explanatory variables are given. Two- or three-step estimators to simplify computation are also suggested. 

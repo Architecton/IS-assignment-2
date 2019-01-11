@@ -1,0 +1,2 @@
+Economic Growth with Intergenerational Altruism
+We consider the properties of equilibrium behaviour in an aggregative growth model with intergenerational altruism. Various positive properties such as the cyclicity of equilibrium programs, and the convergence of equilibrium stocks to a steady state, are analyzed. Among other normative properties, it is established that under certain natural conditions, Nash equilibrium programs are efficient and "modified Pareto optimal", in a sense made clear in the paper, but never Pareto optimal in the traditional sense. 

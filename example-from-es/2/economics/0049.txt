@@ -1,0 +1,2 @@
+The Simple Economics of Optimal Auctions
+We show that the seller's problem in devising an optimal auction is virtually identical to the monopolist's problem in third-degree price discrimination. More generally, many of the important results and elegant techniques developed in the field of mechanism design can be reinterpreted in the language of standard micro theory. We illustrate this by considering the problem of bilateral exchange with privately known values. 

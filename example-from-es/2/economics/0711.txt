@@ -1,0 +1,2 @@
+Introductory Price as a Signal of Cost in a Model of Repeat Business
+A two-period game between firms and consumers is considered. Firms are privately informed about their individual costs, and consumers must pay a search cost in order to learn a firm's current price. Consumers thus have incentive to use introductory price as a signal of cost and, hence, second period price. Recent refinements of the sequential equilibrium concept are employed, and the resulting equilibria involve low introductory prices (introductory sales). 

@@ -1,0 +1,2 @@
+Pareto Inferior Trade
+The paper shows that between two competitive but risky economies with no insurance markets, free trade may be Pareto inferior to no trade. The model is simple enough to show clearly the role prices play in transferring and sharing risk when there is an incomplete set of markets, but rich enough to exhibit the resulting inefficiencies dramatically. 

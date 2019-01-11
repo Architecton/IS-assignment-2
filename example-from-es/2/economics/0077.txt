@@ -1,0 +1,2 @@
+Information-Improvement Functions
+This paper deals with the characterization and properties of "information improvement" which Theil has applied in Economics. A functional equation in three variables is formed. The solutions of this functional equation under suitable boundary conditions are defined as information-improvement functions. The "information improvement" is then defined in terms of information-improvement functions. 

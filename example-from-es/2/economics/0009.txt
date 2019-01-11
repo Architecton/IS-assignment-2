@@ -1,0 +1,2 @@
+Advancing beyond "Advances in Behavioral Economics"
+This essay discusses the field of behavioral economics, with a focus on the papers in "Advances in Behavioral Economics". These papers show that there is a body of "behavioral facts" that is both economically significant and regular enough to be modeled. For the field to advance further, it should devote more attention to the foundations of its models, and develop unified explanations for a wider range of phenomena.

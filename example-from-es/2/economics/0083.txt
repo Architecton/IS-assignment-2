@@ -1,0 +1,2 @@
+Necessary Conditions for Optimal Control Problems with Infinite Horizons
+In a classical optimal control problem the terminal time, either prescribed a priori or not, is always a real number. In many dynamic optimization problems in economics one is led to consider optimal control problems in which the terminal time is the extended real number + ?. These are the so called optimal control problems with infinite horizon. In this paper we give a precise formulation for a standard problem of that type, and we establish a necessary condition for that problem. 

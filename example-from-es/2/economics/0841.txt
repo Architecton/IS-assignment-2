@@ -1,0 +1,2 @@
+Price Formation in an Open Economy: Theory and Evidence for the United Kingdom, 1951-1991
+Price formation is an increasingly important part of modern macroeconomics. However, the empirical literature on price-setting is diverse and confused. This paper uses cointegration techniques to test theories of price-setting on UK aggregate data for 1951-91. We find: (i) domestic prices are determined by both domestic costs and world prices and (ii) at the macroeconomic level, prices are related to marginal cost rather than average or normal cost.

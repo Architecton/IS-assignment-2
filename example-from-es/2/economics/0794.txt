@@ -1,0 +1,2 @@
+Optimal Penal Codes in Price-setting Supergames with Capacity Constraints
+Optimal penal codes are constructed for a class of infinitely repeated games with discounting. These games can be interpreted as Bertrand oligopoly games with capacity constraints. No particular rationing rule is adopted; weak restrictions are imposed on the firms' sales functions instead. Models adopting the commonly used rationing rules are special cases of the general framework studied here. It is found that firms can be driven to their security levels by credible punishments. 

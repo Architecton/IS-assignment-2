@@ -1,0 +1,2 @@
+Sequential Bargaining with Correlated Values
+The paper analyzes an infinite-horizon sequential bargaining game (with one-sided offers) between a buyer and a seller when the buyer's valuation depends on the seller's; the seller knows the value of the object and the buyer does not. The influence of relative discount factors on the solution is studied. It is shown, for example, that an impasse may result if the buyer (offeror) is too impatient relative to the seller: the buyer makes a single take-it-or-leave-it offer. 

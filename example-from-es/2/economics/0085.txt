@@ -1,0 +1,2 @@
+A Hazard Rate Approach to the Timing of Births
+This paper discusses two approaches that economists have taken in analyzing the timing of births. It formulates an empirical model appropriate for one of these approaches and demonstrates its usefulness using household survey data from Costa Rica. The hazard rate technique employed in this paper is natural way of modeling a broad class of problems where the occurrence of an event is uncertain. It is finding widespread use in economics. 

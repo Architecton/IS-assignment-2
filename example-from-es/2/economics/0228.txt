@@ -1,0 +1,2 @@
+An Empirical Assessment of Non-Linearities in Models of Exchange Rate Determination
+This paper examines the empirical relation between nominal exchange rates and macroeconomic fundamentals for five major OECD countries between 1974 and 1987. Five theoretical models of exchange rate determination are considered. Potential non-linearities are examined using a variety of parametric and non-parametric techniques. We find that the poor explanatory power of the models considered cannot be attributed to non-linearities arising from time-deformation or improper functional form. 

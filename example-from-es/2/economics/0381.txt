@@ -1,0 +1,2 @@
+Efficient Decentralisation with a Transferable Good
+There are many situations where agents supply input factors and produce a transferable good (money). This paper examines the conditions on technology under which agents can specify reward schedules which lead to an efficient outcome even if inputs are chosen non-cooperatively and preferences are private information. The characterisation of the class of technologies that allows this involves a generalization of additivity known as (n - 1)-additivity. 

@@ -1,0 +1,2 @@
+A Search Model Applied to the Transition from Education to Work
+This paper presents the specification and estimation of a search model applied to the transition from education to work. The theoretical search model includes the possibility of variable search intensity. The empirical model with a reservation wage relation is estimated using maximum likelihood methods. A data set containing information on new law graduates is used for the estimation. Finally, the model is estimated for two separate subperiods to investigate the effects of market changes.

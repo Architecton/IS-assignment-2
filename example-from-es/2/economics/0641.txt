@@ -1,0 +1,2 @@
+Value of an Additional Firm in Monopolistic Competition
+The paper develops a model of monopolistic competition in which the satisfaction levels consumers get from products are independently and identically distributed. Potential substitution among products then generates demand curves through the mechanism of order statistics. The value of extra variety can be calculated directly. Pareto, lognormal and beta distributions are investigated using numerical integration. Some but not all cases support the argument that the optimal number of firms exceeds the equilibrium number.

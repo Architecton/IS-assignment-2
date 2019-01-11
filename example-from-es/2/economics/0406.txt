@@ -1,0 +1,2 @@
+Likelihood Evidence on the Asset Returns Puzzle
+Standard equilibrium models are unable to replicate the average return on equity and the risk-free rate during 1889-1978, the well-known asset returns puzzle. The present paper, motivated by the excess of outliers in the data, proposes a normal-scale mixture stochastic process for output that is compatible with leptokurtosis. Using formal likelihood-based methods, it is shown that observed asset returns are compatible with posterior distributions implied by the model. 

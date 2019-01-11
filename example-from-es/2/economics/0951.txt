@@ -1,0 +1,2 @@
+Seasonality, Stock Returns and the Macroeconomy
+This paper examines the relationship between seasonality, stock returns and the macroeconomy using a multifactor model of stocks returns. Observed seasonal patterns in excess returns are found to be a result of seasonality in excess expected returns. By utilising a multifactor model of stock returns, these higher returns are found to be a compensation for risk associated with a number of macroeconomic factors at certain times of the year.

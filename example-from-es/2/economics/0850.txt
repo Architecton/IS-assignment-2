@@ -1,0 +1,2 @@
+The Employment Effects of the National Minimum Wage
+This paper estimates the employment effects of the introduction of the UK National Minimum Wage in April 1999 and subsequent upratings in 2000 and 2001. It uses a difference-in-differences estimator based on position in the wage distribution. For the upratings an adjusted estimator is also introduced to allow for the possible differential response to the change in the macro employment trend. No significant adverse employment effects are found for any of these events for any of the estimators for any demographic group.

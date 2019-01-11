@@ -1,0 +1,2 @@
+Reading a Target Zone in Keynes's `Indian Currency and Finance'
+The gold-exchange standard in India 1893-1913 was characterised by a narrow target zone for the exchange rate, a wide annual range for the international interest-rate differential, and negative (seasonal) autocorrelation in interest rates. These properties are consistent with a standard target-zone model in which fundamentals are negatively autocorrelated on a Markov chain. 

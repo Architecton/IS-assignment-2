@@ -1,0 +1,2 @@
+Nonbinary Social Choice: An Impossibility Theorem
+This paper contains a generalization of the General Possibility Theorem to situations where choice over two-element (more generally, "small") sets is not possible. The analysis is developed in terms of the social choice function formulation rather than the social welfare function approach. In this formulation, assumptions concerning the size of sets of feasible alternatives are explicit, allowing the role of these assumptions in inducing impossibility results to be explored. 

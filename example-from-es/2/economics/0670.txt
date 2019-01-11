@@ -1,0 +1,2 @@
+Wage Determination and Efficiency in Search Equilibrium
+Using a simple search technology and the Nash bargaining solution, the paper derives the steady state equilibrium negotiated wage as a function of the equilibrium unemployment and vacancy rates. For this wage, the lifetime expected present discounted value of earnings of a new worker is compared with the social marginal product of a new worker. These are not generally equal implying inefficient incentives for labour mobility. 

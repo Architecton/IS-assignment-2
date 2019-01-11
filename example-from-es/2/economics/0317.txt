@@ -1,0 +1,2 @@
+The Conditional Auction Mechanism for Sharing a Surplus
+A first-bid auction to allocate the leadership role is used to choose a public decision and a balanced set of transfers. The mechanism is shown to implement an equal-sharing of the surplus above the "average" utility level. At the equilibrium an agent's message reveals the other agent's utility (when only two players are involved) and the exact value of the joint surplus. A variety of other contexts allow for the construction of similar auction-like mechanisms displaying the same mirror-image effect. 

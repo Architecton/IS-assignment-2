@@ -1,0 +1,2 @@
+Measures of Distributional Change: An Axiomatic Approach
+Income mobility and horizontal inequity are two common examples of the phenomenon of "distributional change": the transformation of an "old" distribution vector into a "new" distribution vector. An attempt is made to supplement the sundry ad hoc methods of measuring this change with a system of axioms that might command support as general principles of measurement. Variants on the axiom system are examined and the associated class of measures is derived. 

@@ -1,0 +1,2 @@
+The Manipulability of Resource Allocation Mechanisms
+The vulnerability to manipulate behaviour of resource allocation mechanisms is evaluated by determining the Nash equilibria of associated manipulation games. Under manipulation, all monotonic correspondences are essentially equivalent to the Walrasian correspondence. For most non-monotonic correspondences of interest, the initial position appears at equilibrium to be efficient. 

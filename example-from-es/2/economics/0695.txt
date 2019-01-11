@@ -1,0 +1,2 @@
+Ex Post Information in Auctions
+When buyers' private information about the value of an item for sale is correlated, the seller can increase expected revenue in a sealed bid auction by making the winner's payment a function of information available after the end of the auction. Specifically, revenue can be increased by making the payment a function of all the losing bids. In addition there are gains to making the payment contingent upon some signal of the object's value which becomes public at a later date. That is, there are gains to introducing positive royalty rates.

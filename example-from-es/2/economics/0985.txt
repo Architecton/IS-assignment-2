@@ -1,0 +1,2 @@
+How Do Lay-off Costs Affect Employment?
+General equilibrium analyses of lay-off costs have had mixed messages on the implications for employment. This paper brings out the economic forces at work and sheds light on the disparate results. We explain why lay-off costs tend to increase employment in search models while the opposite is true in models with employment lotteries. In matching models, we show that the employment effects depend critically on how lay-off costs are assumed to enter the bargaining process.

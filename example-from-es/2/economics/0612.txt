@@ -1,0 +1,2 @@
+Profiles of Fertility, Labour Supply and Wages of Married Women: A Complete Life-Cycle Model
+This paper is an econometric examination of female fertility and labour-supply decisions. Based upon utility-maximizing choice, fertility and labour-supply demand functions are specified and estimated jointly with a wage-accumulation equation. A main contribution of the paper is the demonstration of a maximum-likelihood estimation method which avoids the main selectivity-bias problems in this area. 

@@ -1,0 +1,2 @@
+Taxes, Investment and Q
+This paper attempts to provide a unified analysis of the effects of taxation on the equilibrium value of marginal q under alternative financial policies. It is shown that the q approach does not avoid all the specification problems associated with analyses based on the cost of capital. The (theoretically and empirically) crucial relationship between average and marginal q is also examined, and it is shown that, under UK and US tax rules, the possibility of winding up precludes persistent undervaluation in equilibrium.

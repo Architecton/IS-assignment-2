@@ -1,0 +1,2 @@
+Intertemporal Equilibrium and the Transfer Paradox
+The transfer paradox may occur in a world with only two countries at a dynamically stable intertemporal competitive equilibrium. In a framework of overlapping generations with production and investment, a transfer of income may immiserize the recipient while enriching the donor. Away from the golden rule, a transfer may result in a Pareto improvement. 

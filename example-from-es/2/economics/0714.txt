@@ -1,0 +1,2 @@
+Identification Results for Duration Models with Multiple Spells
+The purpose of this paper is to investigate the identifiability of duration models with multiple spells. We prove that the results of Elbers and Ridder (1982) and Heckman and Singer (1984) can be generalized to multi-spell models with lagged duration dependence. We also prove that without lagged duration dependence, the identification result does not depend on moment conditions or tail conditions on the mixing distribution. This result is in contrast to Ridder's (1990) result for single-spell models. 

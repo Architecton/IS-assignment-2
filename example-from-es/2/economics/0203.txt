@@ -1,0 +1,2 @@
+Search, Wage Bargains and Cycles
+I use an equilibrium model of job matchings with a Nash wage equation to derive the response of wages and unemployment to productivity shocks. By endogenising labour's threat point, I show that wages absorb fully permanent shock but only partially temporary shocks. Hence, unemployment responds to perceived temporary shocks but not to permanent shocks.

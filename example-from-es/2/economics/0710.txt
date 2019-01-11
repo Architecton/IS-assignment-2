@@ -1,0 +1,2 @@
+Strategic Delay in Bargaining
+This paper analyses a bargaining model with incomplete information in which the time between offers is an endogenous strategic variable. We find equilibria involving a delay to agreement that is due to the use of strategic time delay by bargainers to signal their relative strength. Under some specifications of the parameters, delay is present in the unique sequential equilibrium whose beliefs satisfy one intuitive restriction. This delay does not vanish as the minimal time between offers becomes small.

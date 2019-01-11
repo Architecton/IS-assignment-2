@@ -1,0 +1,2 @@
+Product Differentiation with Imperfect Information
+The paper employs a model of monopolistic competition and product differentiation with consumers who are not well informed about the specification of the offered brands. Welfare analysis of the degree of product differentiation in such a market concludes that the socially desirable product variety is limited due to consumers' imperfect information. Consequently, when the number of consumers is sufficiently large or economies to scale in production are sufficiently weak, the market would offer excessive variety.

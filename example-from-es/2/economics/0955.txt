@@ -1,0 +1,2 @@
+Market Organisation and Trading Relationships
+In this paper we give a theoretical model of buyers' behaviour on a market for a perishable good where no prices are posted. We show that if buyers learn from their own previous experience there is a sharp division between those who learn to be loyal to certain sellers and those who continue to `shop around'. This feature remains in more general models which are simulated and is consistent with empirical data from the Marseille fish market. 

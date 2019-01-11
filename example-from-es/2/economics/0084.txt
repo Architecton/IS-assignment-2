@@ -1,0 +1,2 @@
+Solutions of Saddle Value Problems by Differential Equations
+The saddle point plays a very important role in the theory of games, in general equilibrium theory in economics, and in linear and nonlinear programming problems. This point is equivalent to a stationary solution of a special type of system of differential equations. The writer has constructed a high-speed electro-analog computer, which is not only useful as a practical programming solver, but which also gives a very interesting model of the economic equilibrium. 

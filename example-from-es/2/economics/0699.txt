@@ -1,0 +1,2 @@
+Inventory and Price Behaviour
+The point of this paper is that inventory adjustment attenuates downward pressure on price when realized demand is low because firms accumulate inventory hold-overs, speculating that demand will be stronger in the succeeding period. When realized demand is high the firm draws down its inventories until a "stock-out" occurs and price rises to clear the market. 

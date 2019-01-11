@@ -1,0 +1,2 @@
+Demand-Driven Innovation and Spatial Competition Over Time
+This paper explores a model of innovation and spatial competition over time. A key implication of the paper is that firms' size is positively autocorrelated across time. The mechanism that generates this persistence works only in heterogenous-product markets and is based on the idea that larger firms possess better information about the design of future products. Some corroborating evidence is cited. 

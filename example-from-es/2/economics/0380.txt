@@ -1,0 +1,2 @@
+The Structure of Economies with Aggregate Measures of Capital: A Complete Characterization
+In this paper, we present the primal characterizations of the technologies that are consistent with capital aggregation. These characterizations are dual to the profit function restrictions obtained by Gorman and complete the closed-form production function restrictions obtained by Fisher. We use the result to solve a problem recently posed by Fisher. In addition, we pose and solve a natural extension of the usual capital aggregation problem.

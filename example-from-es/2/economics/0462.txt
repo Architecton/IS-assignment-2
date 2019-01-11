@@ -1,0 +1,2 @@
+Price Aggregation When Price-Taking Firms' Prices Vary
+In many cases, heterogeneous prices occur in price-taking environments. In empirical work, an aggregate price index is often created from such prices and used to explain aggregate supply and derived demands. We show that consistent aggregation places strong restrictions on functional forms which may be used to describe behaviour. Unlike the case of aggregation of consumer income (but similar to the case of aggregation of wages), these functional forms are inconsistent with standard microtheory. 

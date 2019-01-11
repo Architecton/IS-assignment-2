@@ -1,0 +1,2 @@
+A Single-Stage Approach to Anscombe and Aumann's Expected Utility
+Anscombe and Aumann showed that if one accepts the existence of a physical randomizing device such as a roulette wheel then Savage's derivation of subjective expected utility can be considerably simplified. They, however, invoked compound gambles to define their axioms. We demonstrate that the subjective expected utility derivation can be further simplified and need not invoke compound gambles. Our simplification is obtained by closely following the steps by which probabilities and utilities are elicited. 

@@ -1,0 +1,2 @@
+The Transition of Land to Urban Use
+This paper investigates the economics of the transition of land from rural to urban use. A simple model is employed to examine the developer's problem: When and at what destiny should vacant land be developed to maximize the present value of the Land? A series of rules emerges from the analysis to the timing and density of new development. In the latter half of the paper, the rules are tested against recent Canadian experience and peform well. 

@@ -1,0 +1,2 @@
+Optimal Nonuniform Prices
+We consider optimal nonuniform pricing schedules, where the price depends upon the amount purchased. Such schedules are regularly used by public utilities and other services. Welfare-optimal nonuniform prices are related to the theory of optimal uniform prices developed by Ramsey. We characterize situations in which upward or downward discontinuities in pricing schedules are optimal. Our results are applicable to a number of related problems, including optimal taxation, insurance, and incentives.

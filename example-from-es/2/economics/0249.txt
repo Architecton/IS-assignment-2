@@ -1,0 +1,2 @@
+Catastrophic Walrasian Equilibrium from the Non-Walrasian Viewpoint: A Three-Good Macroeconomic Example
+A Walrasian equilibrium is catastrophic from the non-Walrasian viewpoint if some small deviation from the Walrasian prices produces only non-Walrasian equilibrium allocations a long way from the Walrasian allocation. A precise account of this phenomenon is given for a class of three good, single household private ownership production economies. 

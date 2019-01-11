@@ -1,0 +1,2 @@
+Price and Quality in a New Product Monopoly
+In a signal-extraction model of consumer behaviour, higher prices signal higher-quality products for a new product monopoly, even without cost asymmetries across different qualities. Moreover, higher-quality products earn greater expected profits, and the monopolist has an incentive to provide even transient improvements in quality. Finally, the monopolist has a positive incentive to conduct market research about quality, and produces more information than is socially optimal. 

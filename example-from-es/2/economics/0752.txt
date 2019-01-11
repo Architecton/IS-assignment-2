@@ -1,0 +1,2 @@
+Games with Discontinuous Payoffs
+We prove an equilibrium existence result for a class of games with an infinite number of strategies. Our theorem generalises an earlier result by Dasgupta and Maskin. We also identify conditions under which the limit of pure-strategy equilibria of a sequence of finite games is an equilibrium for the limit game. We apply this result to obtain new existence results for the multi-firm, l-dimensional version of Hotellings's location game. The techniques used suggest a technique for computing such equilibria. 

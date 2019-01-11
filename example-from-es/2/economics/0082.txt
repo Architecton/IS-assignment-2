@@ -1,0 +1,2 @@
+Efficient Exchange with a Variable Number of Consumers
+The notion of a club efficient allocation, introduced in this paper, is shown to allow for a unifying treatment of rather disparate matters. The main result deals with the dual characterization of such allocations. The fundamental theorems of welfare economics, the limit theorem on the core, and a general version of a Henry George Theorem on the relationship between aggregate land rent and local public expenditures, all can be recovered as special cases of this paper's main result. 

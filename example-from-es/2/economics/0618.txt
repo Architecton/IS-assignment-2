@@ -1,0 +1,2 @@
+Firing Costs and Labour Demand: How Bad is Eurosclerosis?
+This paper proposes a model of firms' optimal employment policies under linear adjustment costs. We find that firing costs have a larger effect on firms' propensity to fire than to hire, and (slightly) increase average long-run employment. Calibrating the model with realistic parameter values, we argue that high firing costs, slower and more uncertain growth, and lower attrition rates after the first oil shock can explain some features of employment's dynamic behaviour in the largest European countries. 

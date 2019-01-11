@@ -1,0 +1,2 @@
+Voting for Public Goods
+It is shown that when resources are privately owned, the institution of voting is irrelevant to the choice of non-exclusive public goods: the total bundle of such goods produced by Society is the same whether or not minority coalitions are permitted to produce them. This is in sharp contrast to the cases of redistribution and of exclusive public goods, where public decisions depend strongly on the vote. The analytic tool used is the Harsanyi-Shapley non-transferable utility value. 

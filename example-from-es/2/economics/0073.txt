@@ -1,0 +1,2 @@
+The Measurement of Intellectual Influence
+This paper examines the problem of measuring intellectual influence based on data on citations between scholarly publications. We follow an axiomatic approach and find that the properties of invariance to reference intensity, weak homogeneity, weak consistency, and invariance to splitting of journals characterize a unique ranking method. This method is different from those regularly used in economics and other social sciences. 

@@ -1,0 +1,2 @@
+Stochastic Devaluation Risk and the Empirical Fit of Target-Zone Models
+A time-varying stochastic devaluation risk is introduced in a model of exchange rate target zones. The model produces realistic patterns of covariation between exchange rates and interest rate differentials, which previous target zone models have been unable to do. A "drift adjustment" method to estimate devaluation expectations from data is suggested.

@@ -1,0 +1,2 @@
+Approximate Equilibria with Bounds Independent of Preferences
+We prove the existence of approximate equilibria in exchange economies, giving bounds on the excess demand in terms of the number of traders and norms of the endowments, but independent of the preferences. 

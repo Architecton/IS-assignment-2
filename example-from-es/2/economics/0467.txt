@@ -1,0 +1,2 @@
+Instrumental Variables Estimation of Dynamic Simultaneous Systems with ARMA Errors
+This paper develops the instrumental variables estimator for a possibly incomplete, dynamic economic system with vector autoregressive moving average disturbances. Its asymptotic distribution is derived and, under fairly weak conditions, it is shown that lagged endogenous variables may be validly included in the set of instruments. Statistics are proposed for testing the order of the error process and the validity of the instruments. 

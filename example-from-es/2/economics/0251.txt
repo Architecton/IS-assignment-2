@@ -1,0 +1,2 @@
+Adverse Selection, Repeated Insurance Contracts and Annoucement Strategy
+In this note, we present a strategy which relies on multi-period contracts and on a self-selection mechanism which induces the insured to announce his true risk in the first period, thus eliminating inefficiency due to adverse selection. 

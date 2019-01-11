@@ -1,0 +1,2 @@
+Optimal Use of Communication Resources
+We study a repeated game with asymmetric information about a dynamic state of nature. In the course of the game, the better-informed player can communicate some or all of his information to the other. Our model covers costly and/or bounded communication. We characterize the set of equilibrium payoffs and contrast these with the communication equilibrium payoffs, which by definition entail no communication costs. 

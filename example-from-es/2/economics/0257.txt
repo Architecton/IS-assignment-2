@@ -1,0 +1,2 @@
+Dynamic Exchange Rate Equilibria with Uncertain Government Policy
+In this paper we link two exchange rate literatures by showing how threats of asset controls yields determinate exchange rates in general equilibrium models with otherwise perfect capital markets and by showing how, for certain sequences of threats, exchange rate determination may be well explained by monetary variables. We find that in general there exists no natural exchange rate, and market rates may be sensitive to changed perceptions about future exchange rate intervention. 

@@ -1,0 +1,2 @@
+Portfolio Choice in the Presence of Background Risk
+In this paper, we focus on how the presence of background risks - from sources such as labour and entrepreneurial income - influences portfolio allocations. This interaction is explored in a theoretical model that is calibrated using cross-sectional data from a variety of sources. The model is shown to be consistent with some but not all aspects of cross-sectional observations of portfolio holdings. The paper also provides a survey of the extensive theoretical and empirical literature on portfolio choice.

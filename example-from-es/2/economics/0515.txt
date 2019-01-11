@@ -1,0 +1,2 @@
+Comparative Statics and Relative Convexity
+This paper shows that if the difference of two positive semidefinite matrices is positive semidefinite then the difference of their generalized inverses is negative semidefinite. It uses this to compare comparative static behaviour over feasible sets whose distance functions have Hessians with a positive semidefinite difference. It then interprets this condition in terms of various ideas of the relative convexity of the two sets and relates it to the Le Chatelier principle. 

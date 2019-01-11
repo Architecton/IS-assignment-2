@@ -1,0 +1,2 @@
+Consumer's Surplus and Welfare Change in a Simple Dynamic Model
+This paper shows that the discounted sum of instantaneous equivalent or compensating variations (generalized to allow for expenditure changes) is never an exact welfare indicator for a consumer whose preferences are represented by a continuous, increasing inter-temporal utility function. 

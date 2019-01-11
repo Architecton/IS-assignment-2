@@ -1,0 +1,2 @@
+Rethinking Deviations from Uncovered Interest Parity: The Role of Covariance Risk and Noise
+We examine the ability of the standard intertemporal asset pricing model and a model of noise trading to explain why the forward foreign exchange premium predicts the future currency depreciation with the `wrong' sign. We find that the intertemporal asset pricing model is unable to predict risk premia with the correct sign to be consistent with the data. The noise-trader model, while highly stylised, receives fragmentary support from empirical research on survey expectations. 

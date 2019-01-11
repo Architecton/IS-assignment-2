@@ -1,0 +1,2 @@
+Some Theory of Statistical Inference for Nonlinear Science
+This article shows how standard errors can be estimated for a measure of the number of excited degrees of freedom (the correlation dimension), and a measure of the rate of information creation (a proxy for the Kolmogorov entropy), and a measure of instability. These measures are motivated by nonlinear science and chaos theory. The main analytical method is central limit theory of U-statistics for mixing processes. The paper takes a step toward formal hypothesis testing in nonlinear science and chaos theory. 

@@ -1,0 +1,2 @@
+Prices, Product Qualities and Asymmetric Information: The Competitive Case
+Recent developments in the economics of information emphasize the informational content of prices. We examine the degree to which prices convey information on product quality to uninformed agents. Under perfect competition, we show that a rational expectations equilibrium may not exist. When an equilibrium does exist, the information on quality conveyed by prices depends on the shape of the average cost curves and the relative numbers of informed and uniformed agents. 

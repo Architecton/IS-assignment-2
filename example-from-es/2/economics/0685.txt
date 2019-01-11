@@ -1,0 +1,2 @@
+Asset Market Equilibrium with Short-Selling
+This paper presents simple conditions and a simple proof of the existence of equilibrium in asset markets where short-selling is allowed and satiation is possible. Unlike standard non-satiation assumptions, the one used here is weak enough to be reasonable in the mean-variance Capital Asset Pricing Model and in asset market models where investors maximize expected utility and where total returns to individual assets may be negative. 

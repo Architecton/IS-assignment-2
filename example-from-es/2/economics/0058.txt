@@ -1,0 +1,2 @@
+Canonical Correlation and Multiple Equation Systems in Economics
+The LISE technique is extended to deal with certain subsystems of a full system which are of a special type. It is shown that any completely identified system can be uniquely decomposed into maximal subsystems of this type. The relation of the estimation procedure to certain classical statistical estimation procedures is discussed. 

@@ -1,0 +1,2 @@
+Flexibility and Uncertainty
+The preserving of flexibility when faced with uncertainty is a neglected aspect of behaviour under risk. Yet it is an important factor in decisions to hold liquid assets or delay irreversible investment. This paper formalizes the notion of flexibility in a sequential decision context, and relates its value to the amount of information an agent expects to receive. A rudimentary money demand model is developed embodying these ideas, and the history of flexibility as an economic concept is traced. 

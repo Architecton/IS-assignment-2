@@ -1,0 +1,2 @@
+Authority and Communication in Organizations
+This paper studies delegation as an alternative to communication. We show that a principal prefers to delegate control to a better informed agent rather than to communicate with this agent as long as the incentive conflict is not too large relative to the principal's uncertainty about the environment. We further identify cases in which the principal optimally delegates control to an "intermediary", and show that keeping a veto-right typically reduces the expected utility of the principal unless the incentive conflict is extreme. 

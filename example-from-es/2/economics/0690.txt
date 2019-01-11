@@ -1,0 +1,2 @@
+The Role of Fiscal Policy in an Incomplete Markets Framework
+A general-equilibrium model is developed to highlight the link between neo-Keynesian models of unemployment and recent results on the constrained sub-optimality of competitive economies with incomplete asset markets. Although the model deviates from the Arrow-Debreu paradigm only by the absence of some contingent claims, the competitive equilibrium exhibits under-employment and balanced-budget fiscal policies have Keynesian effects which are Pareto improving. 

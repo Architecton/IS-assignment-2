@@ -1,0 +1,2 @@
+Equilibrium Price Distributions
+Equilibrium price distributions (for a homogeneous product) consistent with individual incentives are investigated. They arise in informationally imperfect markets in which the only primitive datum is the distribution of search costs. It is shown that single, multi- and continuous price distributions are all viable long-run phenomena depending on the nature of search costs. A method for computing equilibrium price distributions is also provided. 

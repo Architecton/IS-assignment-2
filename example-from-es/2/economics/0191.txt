@@ -1,0 +1,2 @@
+Variable Returns to Scale, Non-Uniqueness of Equilibirum and the Gains from International Trade
+Existing conditions for gainful trade under conditions of variable returns to scale are merely sufficient. Basing ourselves on the possible non-uniqueness of the production equilibrium under variable returns, we develop a globally valid necessary and sufficient condition for gainful trade. In particular, it is shown that trade may be gainful without changes in product prices, even if trade results in a loss of productivity.

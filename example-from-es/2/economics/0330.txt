@@ -1,0 +1,2 @@
+Cournot Equilibrium with Free Entry: The Case of Decreasing Average Cost Functions
+This paper investigates, in the context of a market for a homogeneous commodity, the asymptotic properties of Cournot equilibria with free entry when the size of the market increases indefinitely. The analysis focuses on the case where the average cost function is always decreasing and the marginal cost function is non-decreasing for all sufficiently large outputs.

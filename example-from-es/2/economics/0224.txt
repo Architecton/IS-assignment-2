@@ -1,0 +1,2 @@
+Transactions Demand for Money with a Stochastic, Time-Varying Interest Rate
+This paper considers a stochastic, time-varying interest rate in a continuous-time inventory-theoretic model of the demand for money. The problem of minimizing expected, discounted cash-management costs is ascribed to an agent. An optimal cash-management policy exists and is of a familiar target-threshold form. Closed-form expressions for the forward-looking, time-varying targets and thresholds are derived in special cases and implications for the dynamics of the cash balance are described. 

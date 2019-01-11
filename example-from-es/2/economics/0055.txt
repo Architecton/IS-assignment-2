@@ -1,0 +1,2 @@
+Qualitative Economics and the Scope of the Correspondence Principle
+The comparative statics properties of qualitatively specified systems are investigated in two cases: the "purely qualitative" case studied by Lancaster and Gorman, and the case in which the coefficient matrix of the system is assumed to be stable. Samuelson's "correspondence principle" is shown to be of particular importance in the Morishima case, but of less importance when the Morishima conditions are violated. 
