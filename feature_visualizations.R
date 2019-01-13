@@ -3,23 +3,21 @@ library('NLP')
 library('stringr')
 library('purrr')
 
-# Loading the corpus and performing the preprocessing
+# Loading the corpus and performing preprocessing.
 wd <- "/home/jernej/Desktop/Repositories/projects/IS-assignment-2"
 setwd(wd)
 raw_corpus <- Corpus(DirSource("essay"))
-corpus <- tm_map(raw_corpus, removePunctuation)
+# corpus <- tm_map(raw_corpus, removePunctuation)
 corpus <- tm_map(corpus, removeNumbers)
 corpus <- tm_map(corpus, tolower)
 corpus <- tm_map(corpus, removeWords, stopwords())
-corpus <- tm_map(corpus, stemDocument)
-
+# corpus <- tm_map(corpus, stemDocument)
 
 # Assignment 1
 
-
 #### (1) Computing the average number of sentences per document. #####
 
-# Find average number of sentances by counting dots.
+# Find average number of sentences by counting dots.
 sum_dots <- 0
 lengths <- integer(length(raw_corpus))
 for (k in seq_along(raw_corpus)) {    # Go over each document in corpus and count dots
@@ -28,7 +26,7 @@ for (k in seq_along(raw_corpus)) {    # Go over each document in corpus and coun
   lengths[k] <- num_dots_next
 }
 avg_num_sentences <- sum_dots / length(raw_corpus)
-print(sprintf("Average number of sentances in documents = %.3f", avg_num_sentences))
+print(sprintf("Average number of sentences in documents = %.3f", avg_num_sentences))
 
 # Visually present the results
 par(mfrow=c(1,2))
@@ -113,6 +111,7 @@ hist(word_frequencies, col="lightblue", breaks=30,
 
 # Find similar words based on documents they appear in.
 corr_thresh <- 0.4
+# Get associations for the most common words.
 assocs <- map(names(word_frequencies[1:10]), function(word) {
   findAssocs(tdm, word, corr_thresh)
 })
@@ -120,12 +119,13 @@ assocs <- map(names(word_frequencies[1:10]), function(word) {
 frame()
 par(mfrow=c(2,2))
 cat(sprintf("Associations for the 10 most frequent words (using correlation value of %f as threshold): ", corr_thresh))
+# Visually present the results.
 for (k in seq_along(assocs)) {
   name = names(assocs[[k]])
   cat(sprintf("word = %s,\nassociations:\n", name))
   data <- get(name, assocs[[k]])
   if (length(data) != 0) {
-    barplot(data, ylab="correlation value", main=sprintf("Associations for Word '%s'", name))
+    barplot(data, ylab="correlation value", col="lightblue", main=sprintf("Associations for Word '%s'", name))
   }
   assoc <- names(get(name, assocs[[k]]))
   if (length(assoc) != 0) {

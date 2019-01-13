@@ -9,7 +9,7 @@ library(tm)
 # Load the corpus
 
 # Set working directory to the one containing the unzipped economics folder
-setwd("<path to folder>")
+# setwd("./example-from-es/2")
 
 # Load the corpus from the directory
 corpus <- Corpus(DirSource("economics"))
@@ -99,7 +99,7 @@ avg_sent_len <- function(text, sent_ann, word_ann) {
 }
 
 # Use the lapply function to run avg_sent_len on every document in the corpus
-sent_lens <- lapply(corpus, avg_sent_len, sent_ann, word_ann) 
+sent_lens <- lapply(corpus, avg_sent_len, sent_ann, word_ann)
 
 # The result of lapply is a list with names and we need to convert this to a
 # vector
