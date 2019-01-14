@@ -32,7 +32,7 @@ feature_selection <- function(dataset, target, k, kernel, class_vals) {
   }
   
   # Perform genetic algorithm and return best selector vector.
-  GA <- ga(type="binary", fitness=sel_fitness, nBits=ncol(dataset), popSize=1, maxiter=1, run=1)
+  GA <- ga(type="binary", fitness=sel_fitness, nBits=ncol(dataset), popSize=10, maxiter=10, run=5)
   return(as.integer(GA@solution))
 }
 

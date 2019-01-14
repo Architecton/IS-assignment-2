@@ -9,8 +9,10 @@ options(warn=-1)
 wd <- "/home/jernej/Desktop/Repositories/projects/IS-assignment-2"
 setwd(wd)
 
+# Parse dataset to augment.
 dataset <- readRDS("data/dataset1.rds")
 
+# Load corpus.
 raw_corpus <- Corpus(DirSource("essay"))
 n <- names(raw_corpus)
 n <- gsub("essay_", "", n)
@@ -20,6 +22,8 @@ raw_corpus <- raw_corpus[o]
 corpus <- tm_map(raw_corpus, removeNumbers)
 corpus <- tm_map(corpus, tolower)
 
+# Get avg_num_pos_type: get average number of specified POS type in sentences
+# of specified document.
 get_avg_num_pos_type <- function(res, pos_type) {
   get_num_sent <- function(res) {
     get_constituents <- function(res) {
@@ -43,8 +47,10 @@ get_avg_num_pos_type <- function(res, pos_type) {
   return (count_pos_type(res, pos_type)/get_num_sent(res));
 }
 
+# pos_list: list of parts of speech.
 pos_list <- strsplit("CC CD DT EX FW IN JJ JJR JJS LS MD NN NNS NNP NNPS PDT POS PRP PRP$ RB RBR RBS RP SYM TO UH VB VBD VBG VBN VBP VBZ WDT WP WP$ WRB", " ")[[1]]
 
+# Perform annotation.
 sent_ann <- Maxent_Sent_Token_Annotator()
 word_ann <- Maxent_Word_Token_Annotator()
 post_ann <- Maxent_POS_Tag_Annotator()
@@ -62,6 +68,7 @@ for (text in corpus$content) {
   res_feat_block <- rbind(res_feat_block, res_row)
 }
 
+# Add feature block to previous feature matrix.
 res_feat_block <- data.frame(res_feat_block)
 dataset_aug <- cbind(dataset, res_feat_block)
 saveRDS(dataset_aug, file = "data/dataset2.rds")

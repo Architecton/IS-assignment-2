@@ -7,11 +7,11 @@ dataset <- NULL
 while (TRUE) {
   dataset_sel <- readline(prompt="Enter dataset to use (1 or 2): ")
   if (dataset_sel == "1") {
-    dataset <- readRDS("dataset1.rds")
+    dataset <- readRDS("data/dataset1.rds")
     feature_sel <- readRDS("data/feature_sel_struct.rds")
     break
   } else if (dataset_sel == "2") {
-    dataset <- readRDS("dataset2.rds")
+    dataset <- readRDS("data/dataset2.rds")
     feature_sel <- readRDS("data/feature_sel_vocab.rds")
     break
   } else {
